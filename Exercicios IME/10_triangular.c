@@ -8,9 +8,7 @@ int main()
 {
     // Variaveis
 
-    int cont = 0;
-    int num;
-    int bol = 0;
+    int cont = 0, num, bol = 0;
     
     // Explicação
 
