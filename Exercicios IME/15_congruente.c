@@ -31,12 +31,8 @@ int main()
         if (divi%divm == divj%divm) {
             printf("%d. | %d | - O resto é Igual a - | %d |\n",cont, divi, divj);
             cont++;
-            divj++;
         }
-        else {
-            divj++;
-        }
-
+        divj++;
     }
     return 0;
 }
